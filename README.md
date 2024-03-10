@@ -1,4 +1,5 @@
 # Luhn-Algorithm
+### https://en.wikipedia.org/wiki/Luhn_algorithm
 
 The Luhn Algorithm, also known as the Luhn formula or modulus 10 algorithm, is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, National Provider Identifier numbers, and more. It's widely used to detect errors in data entry or transmission, as well as to detect accidental errors or fraud.
 
